@@ -39,6 +39,7 @@ export function useSingleCallResult(
     ...args: SkipFirstTwoParams<typeof multicall.hooks.useSingleCallResult>
 ) {
     const latestBlock = useLatestBlock(provider);
+
     return multicall.hooks.useSingleCallResult(1, latestBlock, ...args);
 }
 
