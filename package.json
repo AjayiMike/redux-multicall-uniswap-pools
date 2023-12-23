@@ -1,33 +1,33 @@
 {
-  "name": "nextjs-tailwindcss-redux-toolkit-starter-kit",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@ethersproject/abi": "^5.7.0",
-    "@ethersproject/bignumber": "^5.7.0",
-    "@ethersproject/contracts": "^5.7.0",
-    "@ethersproject/providers": "^5.7.2",
-    "@ethersproject/units": "^5.7.0",
-    "@reduxjs/toolkit": "^1.9.5",
-    "@types/node": "20.6.0",
-    "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.7",
-    "@uniswap/redux-multicall": "^1.1.8",
-    "autoprefixer": "10.4.15",
-    "eslint": "8.49.0",
-    "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
-    "postcss": "8.4.29",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-redux": "^8.1.2",
-    "tailwindcss": "3.3.3",
-    "typescript": "5.2.2"
-  }
+    "name": "redux-multicall-uniswap-pools",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@ethersproject/abi": "^5.7.0",
+        "@ethersproject/bignumber": "^5.7.0",
+        "@ethersproject/contracts": "^5.7.0",
+        "@ethersproject/providers": "^5.7.2",
+        "@ethersproject/units": "^5.7.0",
+        "@reduxjs/toolkit": "^1.9.5",
+        "@types/node": "20.6.0",
+        "@types/react": "18.2.21",
+        "@types/react-dom": "18.2.7",
+        "@uniswap/redux-multicall": "^1.1.8",
+        "autoprefixer": "10.4.15",
+        "eslint": "8.49.0",
+        "eslint-config-next": "13.4.19",
+        "next": "13.4.19",
+        "postcss": "8.4.29",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-redux": "^8.1.2",
+        "tailwindcss": "3.3.3",
+        "typescript": "5.2.2"
+    }
 }
