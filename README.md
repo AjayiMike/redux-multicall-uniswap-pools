@@ -3,7 +3,7 @@
 To start building your dApp with this, run:
 
 ```bash
-git clone git@github.com:AjayiMike/redux-multicall-project-setup.git
+git clone git@github.com:AjayiMike/redux-multicall-uniswap-pools.git
 ```
 Install dependency by runing:
 
